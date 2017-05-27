@@ -1,0 +1,4 @@
+# annotegrate
+
+## overview
+Creating mechanistic explanations of biological phenomena requires detailed knowledge of the biomedical entities involved and crucially, the specific relations that link the entities to each other. Recent text mining advances in relation and event extraction are beginning to yield output using a diverse set of relations linking biomedical entities. The work proposed here will transition disparate text mining output into an interoperable form by grounding biomedical entities and the relations asserted between them in a set of community-vetted ontologies. By generating specific knowledge representation for the different types of entity-relation-entity triples, this work supports the creation of high-resolution, logically consistent biological networks mined from the literature, which are amenable to computational reasoning.
